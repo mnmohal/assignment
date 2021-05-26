@@ -1,0 +1,8 @@
+{
+  "environment": "devApp_environment",
+  "jwtPrivateKey": "devApp_jwtPrivateKey",
+  "bcryptSalt": "devApp_bcryptSalt",
+  "smsc_twilio.sms_client": "devApp_sms_client",
+  "smsc_twilio.sms_client_secret": "devApp_client_secret",
+  "dbMlab": "devApp_dbMlab_string"
+}

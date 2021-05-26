@@ -1,0 +1,11 @@
+{
+  "environment": "dev",
+  "app_name": "Assignment",
+  "app_domain": "",
+  "jwtPrivateKey": "unsecureKey",
+  "bcryptSalt": "Test123",
+  "dbMlab": "",
+  "port": "3001",
+  "requiresAuth": true,
+  "logo": ""
+}
